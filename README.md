@@ -35,7 +35,7 @@ Here is a screenshot of the final dashboard:
 
 ## 📂 Data Source
 
-The dataset used for this project is a CSV file (`Mobile Sales Data.xlsx - Sheet1.csv`) containing transactional sales records.
+The dataset used for this project is a CSV file [Mobile Sales Data.xlsx - Sheet1.csv](https://github.com/Mohammed-Maaz-coder/Power-BI-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx) containing transactional sales records.
 
 ---
 
