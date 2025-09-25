@@ -10,7 +10,7 @@ This project involves the analysis of mobile phone sales data to uncover key ins
 
 Here is a screenshot of the final dashboard:
 
-![Mobile Sales Dashboard](power%20bi%20dashboard%20screen%20short.png)
+![Mobile Sales Dashboard](file:///C:/Users/admin/Pictures/Screenshots/power%20bi%20dashboard%20screen%20short.png)
 
 ---
 
